@@ -1,0 +1,20 @@
+img {
+    width:300px;
+}
+
+body {
+    background-color: #ECBF81;
+}
+.menu {
+    color: #ECBF81;
+    background-color: #775026;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    text-decoration: none;
+}
+
+main {
+    color: #775026;
+}
+
